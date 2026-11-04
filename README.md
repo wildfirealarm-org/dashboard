@@ -1,4 +1,4 @@
-# Wildfire Alarm — dashboard (biobot-dashboard)
+# Wildfire Alarm — dashboard
 
 Web dashboard for Wildfire Alarm, early wildfire detection from low-cost
 sensor nodes. React 18, Vite, Tailwind, Leaflet.
